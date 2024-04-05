@@ -18,4 +18,4 @@ IP адрес 178.154.203.243
 Frontend https://mesto-l1.nomoredomainswork.ru
 Backend https://api.mesto-l1.nomoredomainswork.ru
 
-![](./docks/sb.png)
+![](./docks/mesto.png)
